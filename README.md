@@ -9,6 +9,10 @@ Currently it is still in a very basic form. I need to update my CV and my profic
 
 ## Authors and acknowledgment
 This project was made using bootstrap and with the aid of the video series hosted by the Code Institute and Matt Rudge in particular.
+Other libraries used:
+Font Awesome
+Google Fonts
+Hover.CSS
 
 ## Project status
 Delopment is on hold whilst I finish the course though will almost certainly come back and use this as a template for my own CV page.
